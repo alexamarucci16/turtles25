@@ -1,4 +1,3 @@
-
 local function victory()
     print("We finished the maze!")
     turtle.up()
